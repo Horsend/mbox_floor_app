@@ -14,3 +14,7 @@ O arquivo database.dart possui um comando que ao executar no terminal "flutter p
  resultando no arquivo database.g.dart
 
 Entao pode se dizer que esse programa e uma lista de compras com um banco de dados interno
+
+## Video da aplicação
+
+https://youtu.be/NHjf5gwvxCo
